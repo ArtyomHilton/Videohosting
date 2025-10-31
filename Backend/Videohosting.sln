@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "solution-files", "solution-
 		..\README.md = ..\README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Videohosting.Domain", "src\Videohosting.Domain\Videohosting.Domain.csproj", "{939942C3-7634-408F-8A01-46C4D1911F56}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,11 +37,24 @@ Global
 		{FE01D986-28D8-4BE4-A8E9-DF34EEC4F19D}.Release|x64.Build.0 = Release|Any CPU
 		{FE01D986-28D8-4BE4-A8E9-DF34EEC4F19D}.Release|x86.ActiveCfg = Release|Any CPU
 		{FE01D986-28D8-4BE4-A8E9-DF34EEC4F19D}.Release|x86.Build.0 = Release|Any CPU
+		{939942C3-7634-408F-8A01-46C4D1911F56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{939942C3-7634-408F-8A01-46C4D1911F56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{939942C3-7634-408F-8A01-46C4D1911F56}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{939942C3-7634-408F-8A01-46C4D1911F56}.Debug|x64.Build.0 = Debug|Any CPU
+		{939942C3-7634-408F-8A01-46C4D1911F56}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{939942C3-7634-408F-8A01-46C4D1911F56}.Debug|x86.Build.0 = Debug|Any CPU
+		{939942C3-7634-408F-8A01-46C4D1911F56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{939942C3-7634-408F-8A01-46C4D1911F56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{939942C3-7634-408F-8A01-46C4D1911F56}.Release|x64.ActiveCfg = Release|Any CPU
+		{939942C3-7634-408F-8A01-46C4D1911F56}.Release|x64.Build.0 = Release|Any CPU
+		{939942C3-7634-408F-8A01-46C4D1911F56}.Release|x86.ActiveCfg = Release|Any CPU
+		{939942C3-7634-408F-8A01-46C4D1911F56}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{FE01D986-28D8-4BE4-A8E9-DF34EEC4F19D} = {827E0CD3-B72D-47B6-A68D-7590B98EB39B}
+		{939942C3-7634-408F-8A01-46C4D1911F56} = {827E0CD3-B72D-47B6-A68D-7590B98EB39B}
 	EndGlobalSection
 EndGlobal
